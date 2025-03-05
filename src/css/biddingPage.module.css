@@ -1,0 +1,100 @@
+.container{
+    color: rgb(73, 17, 28);
+    padding:1% 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    flex-wrap: wrap;
+}
+
+.productImages img{
+    height: 626px;
+    width: 626px;
+}
+
+.productInfo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 440px;
+    height: 500px;
+    box-shadow: 10px 10px 10px rgb(222, 221, 219);
+}
+
+.productDescription,.productStatus,.SellerDetails,.currentBidInfo{
+    margin: 0px 15px;
+}
+.productDescription p{
+    width: 300px;
+    word-break: break-all;
+}
+.productInfo h1,.bidInfo h1{
+    background-color: rgb(73, 17, 28);
+    color: wheat;
+    padding: 5px;
+}
+
+.productStatus{
+    display: flex;
+    justify-content: space-between;
+}
+
+.SellerDetails div,.currentBidInfo{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.bidInfo{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    width: 250px;
+    height: 500px;
+    overflow-y: scroll;
+    padding-top: 26px;
+    box-shadow: 10px 10px 10px rgb(222, 221, 219);
+    
+}
+::-webkit-scrollbar{
+    width: 10px;
+    border-radius: 10px;
+    background-color: rgb(216, 210, 210);
+    visibility: hidden;
+}
+
+.bidBox{
+    width: 200px;
+}
+
+.bidData{
+    border-bottom: 1px solid black;
+    padding: 8px;
+    cursor: pointer;
+}
+
+.bidData p{
+    padding-bottom: 8px;
+}
+.btn {
+    margin-left: 10px;
+    text-align: center;
+    background-color: rgb(92, 33, 45);
+    font-size: 15px;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.biddingValueBox{
+    margin-bottom: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.SellerDetails h2{
+    background-color: transparent;
+    color: rgb(73, 17, 28);
+}

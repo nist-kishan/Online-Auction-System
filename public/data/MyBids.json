@@ -1,0 +1,93 @@
+[
+    {
+      "product_image": "https://media.extra.com/s/aurora/100322230_800/Apple-iPhone-14-Pro-Max%2C-5G%2C-128GB%2C-Space-Black?locale=en-GB,en-*,*",
+      "name": "iPhone 14 Pro",
+      "seller": "TechStore",
+      "asking_price": 1200,
+      "bid_amount": 1150,
+      "status": "Pending",
+      "action": "View"
+    },
+    {
+      "product_image": "https://m.media-amazon.com/images/I/91WgL3IbNIL.jpg",
+      "name": "Dell XPS 15",
+      "seller": "LaptopWorld",
+      "asking_price": 1500,
+      "bid_amount": 1400,
+      "status": "Accepted",
+      "action": "View"
+    },
+    {
+      "product_image": "https://www.bhphotovideo.com/images/images2000x2000/sony_wh1000xm5_s_wh_1000xm5_noise_canceling_wireless_over_ear_1706394.jpg",
+      "name": "Sony WH-1000XM5",
+      "seller": "AudioHub",
+      "asking_price": 400,
+      "bid_amount": 350,
+      "status": "Rejected",
+      "action": "View"
+    },
+    {
+      "product_image": "https://th.bing.com/th/id/OIP.IVV-0It5tI75J67PLjj6hAHaJ4?rs=1&pid=ImgDetMain",
+      "name": "PlayStation 5",
+      "seller": "GameZone",
+      "asking_price": 800,
+      "bid_amount": 750,
+      "status": "Pending",
+      "action": "View"
+    },
+    {
+      "product_image": "https://th.bing.com/th/id/R.68cde6970a72a294bda75d824b275125?rik=52g7aJG0wIxnyw&riu=http%3a%2f%2fwww.intecat.com%2fcdn%2fshop%2ffiles%2fApple_Watch_Series_9_LTE_41mm_Gold_Stainless_Steel_Gold_Milanese_Loop_PDP_Image_Position-1__ESES.jpg%3fv%3d1697801968&ehk=dVImLUXT1Uku3S10MWHOKxrM16CGewB99MKDEccb7OM%3d&risl=&pid=ImgRaw&r=0",
+      "name": "Apple Watch Series 9",
+      "seller": "GadgetMart",
+      "asking_price": 500,
+      "bid_amount": 480,
+      "status": "Accepted",
+      "action": "View"
+    },
+    {
+      "product_image": "https://www.canon.com.au/-/media/images/canon/products/eos-5d-mark-iii/eos-5d-mark-iii-alternate.ashx",
+      "name": "Canon EOS R6",
+      "seller": "PhotoGear",
+      "asking_price": 2200,
+      "bid_amount": 2100,
+      "status": "Pending",
+      "action": "View"
+    },
+    {
+      "product_image": "https://th.bing.com/th/id/OIP._xStQFFCBlN11CoIA9ogbQHaHa?rs=1&pid=ImgDetMain",
+      "name": "iPad Pro 12.9",
+      "seller": "AppleStore",
+      "asking_price": 1300,
+      "bid_amount": 1250,
+      "status": "Rejected",
+      "action": "View"
+    },
+    {
+      "product_image": "https://media.idownloadblog.com/wp-content/uploads/2019/07/LG-UltraFine-5K-display.jpg",
+      "name": "LG UltraFine 5K",
+      "seller": "DisplayExperts",
+      "asking_price": 900,
+      "bid_amount": 870,
+      "status": "Accepted",
+      "action": "View"
+    },
+    {
+      "product_image": "https://m.media-amazon.com/images/I/71y73nqoHqL._AC_SL1500_.jpg",
+      "name": "Mechanical Keyboard RGB",
+      "seller": "KeyboardKing",
+      "asking_price": 150,
+      "bid_amount": 140,
+      "status": "Pending",
+      "action": "View"
+    },
+    {
+      "product_image": "https://th.bing.com/th/id/OIP.rYDHT4UmmFPzi2t0N4LaagHaFN?rs=1&pid=ImgDetMain",
+      "name": "Samsung T7 2TB",
+      "seller": "StorageWorld",
+      "asking_price": 250,
+      "bid_amount": 230,
+      "status": "Accepted",
+      "action": "View"
+    }
+  ]
+  

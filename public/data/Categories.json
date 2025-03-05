@@ -1,0 +1,54 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electronics",
+      "description": "Find the latest gadgets, smartphones, laptops, and electronic accessories."
+    },
+    {
+      "id": 2,
+      "name": "Fashion",
+      "description": "Explore a wide range of clothing, footwear, and accessories for men and women."
+    },
+    {
+      "id": 3,
+      "name": "Home & Furniture",
+      "description": "Upgrade your home with stylish furniture, home decor, and essential appliances."
+    },
+    {
+      "id": 4,
+      "name": "Automobiles",
+      "description": "Browse cars, motorcycles, spare parts, and other vehicle-related accessories."
+    },
+    {
+      "id": 5,
+      "name": "Art & Collectibles",
+      "description": "Discover unique artworks, antiques, sculptures, and collectible items."
+    },
+    {
+      "id": 6,
+      "name": "Real Estate",
+      "description": "Find houses, apartments, commercial spaces, and land for sale or rent."
+    },
+    {
+      "id": 7,
+      "name": "Sports & Outdoor",
+      "description": "Shop for sports equipment, camping gear, fitness essentials, and outdoor gear."
+    },
+    {
+      "id": 8,
+      "name": "Toys & Games",
+      "description": "Choose from a variety of toys, board games, video games, and educational kits."
+    },
+    {
+      "id": 9,
+      "name": "Books & Media",
+      "description": "Buy books, magazines, music albums, movies, and other media collections."
+    },
+    {
+      "id": 10,
+      "name": "Industrial & Business",
+      "description": "Browse machinery, office equipment, wholesale supplies, and business tools."
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "iPhone 14 Pro",
+      "description": "Apple iPhone 14 Pro with 128GB storage, deep purple color.",
+      "category": "Electronics",
+      "image": "https://phones.mintmobile.com/wp-content/uploads/2022/09/Apple_iPhone_14_Pro_Max_space_black_600x600.png",
+      "starting_price": 800,
+      "current_bid": 1050,
+      "stock": 5,
+      "status": "Available",
+      "bid_history": [
+        {
+          "bidder": "JohnDoe",
+          "amount": 900
+        },
+        {
+          "bidder": "Alice123",
+          "amount": 950
+        },
+        {
+          "bidder": "BidKing",
+          "amount": 1050
+        }
+      ],
+      "auction_end_time": "2025-03-05T18:00:00Z",
+      "seller": {
+        "name": "TechStore",
+        "rating": 4.8
+      }
+    },
+    {
+      "id": 2,
+      "name": "Rolex Submariner Watch",
+      "description": "Luxury Rolex Submariner, stainless steel, black dial.",
+      "category": "Watches",
+      "image": "https://th.bing.com/th/id/OIP.mxETZ2SOYwRXgjljSj0qVAHaGn?rs=1&pid=ImgDetMain",
+      "starting_price": 5000,
+      "current_bid": 6250,
+      "stock": 0,
+      "status": "Sold",
+      "bid_history": [
+        {
+          "bidder": "LuxuryFan",
+          "amount": 5500
+        },
+        {
+          "bidder": "WatchMaster",
+          "amount": 6000
+        },
+        {
+          "bidder": "TimeKeeper",
+          "amount": 6250
+        }
+      ],
+      "auction_end_time": "2025-03-10T20:00:00Z",
+      "seller": {
+        "name": "LuxuryWatches",
+        "rating": 4.9
+      }
+    },
+    {
+      "id": 3,
+      "name": "Tesla Model 3",
+      "description": "Used Tesla Model 3 (2023) with autopilot and full self-driving.",
+      "category": "Automobile",
+      "image": "https://img.freepik.com/premium-photo/car-isolated-white-background-tesla-model-3-white-car-blank-clean-white-backgr-white-black_655090-607332.jpg",
+      "starting_price": 35000,
+      "current_bid": 42000,
+      "stock": 2,
+      "status": "Available",
+      "bid_history": [
+        {
+          "bidder": "CarLover",
+          "amount": 37000
+        },
+        {
+          "bidder": "EVHunter",
+          "amount": 40000
+        },
+        {
+          "bidder": "TeslaFan",
+          "amount": 42000
+        }
+      ],
+      "auction_end_time": "2025-03-15T23:59:59Z",
+      "seller": {
+        "name": "AutoDealer",
+        "rating": 4.7
+      }
+    },
+    {
+      "id": 4,
+      "name": "MacBook Pro M2",
+      "description": "Apple MacBook Pro M2 (16-inch, 512GB SSD, 16GB RAM).",
+      "category": "Electronics",
+      "image": "https://itronics.in/wp-content/uploads/2023/02/mbp14-spacegray-gallery6-202301.png",
+      "starting_price": 2000,
+      "current_bid": 2600,
+      "stock": 1,
+      "status": "Available",
+      "bid_history": [
+        {
+          "bidder": "TechGeek",
+          "amount": 2200
+        },
+        {
+          "bidder": "CodeMaster",
+          "amount": 2500
+        },
+        {
+          "bidder": "AppleFan",
+          "amount": 2600
+        }
+      ],
+      "auction_end_time": "2025-03-08T20:00:00Z",
+      "seller": {
+        "name": "TechHub",
+        "rating": 4.6
+      }
+    },
+    {
+      "id": 5,
+      "name": "Gaming PC",
+      "description": "High-end gaming PC with RTX 4090 and 64GB RAM.",
+      "category": "Electronics",
+      "image": "https://i5.walmartimages.com/asr/c3ffe9f7-f38b-4bf9-97ad-8454cfb6adaa_1.126d28bd6069d42a4a8792948bf75ae3.jpeg",
+      "starting_price": 2500,
+      "current_bid": 3200,
+      "stock": 0,
+      "status": "Deactivated",
+      "bid_history": [
+        {
+          "bidder": "GamerPro",
+          "amount": 2800
+        },
+        {
+          "bidder": "FPSKing",
+          "amount": 3000
+        },
+        {
+          "bidder": "PCMaster",
+          "amount": 3200
+        }
+      ],
+      "auction_end_time": "2025-03-12T23:00:00Z",
+      "seller": {
+        "name": "GameZone",
+        "rating": 4.9
+      }
+    },
+    {
+      "id": 6,
+      "name": "Vintage Vinyl Record",
+      "description": "Rare Beatles vinyl record from 1969 in mint condition.",
+      "category": "Music",
+      "image": "https://img.freepik.com/premium-photo/stack-vintage-vinyl-record-albums_229995-420.jpg",
+      "starting_price": 150,
+      "current_bid": 275,
+      "stock": 10,
+      "status": "Available",
+      "bid_history": [
+        {
+          "bidder": "VinylCollector",
+          "amount": 180
+        },
+        {
+          "bidder": "RetroFan",
+          "amount": 250
+        },
+        {
+          "bidder": "BeatlesFan",
+          "amount": 275
+        }
+      ],
+      "auction_end_time": "2025-03-07T18:30:00Z",
+      "seller": {
+        "name": "RetroStore",
+        "rating": 4.7
+      }
+    }
+  ]
+}

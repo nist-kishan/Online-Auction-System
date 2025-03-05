@@ -1,0 +1,31 @@
+.searchBox{
+    margin: 20px;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.searchItems{
+    border: 1px solid rgb(123, 122, 122);
+    height: 40px;
+    padding: 5px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.cardContainer{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.btn {
+    margin-left: 10px;
+    text-align: center;
+    background-color: rgb(92, 33, 45);
+    font-size: large;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}

@@ -1,0 +1,52 @@
+.container {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+.message {
+    width: 60vw;
+}
+
+.message p{
+    word-wrap: break-word;
+    font-weight: bolder;
+    font-size: 45px;
+    word-spacing: 20px;
+    margin: 2.2rem;
+    color: rgb(71, 11, 23);
+}
+
+.sideImage {
+    width: 400px;
+    height: 400px;
+    background-image: url("https://img.freepik.com/premium-vector/auction-with-man-holding-gavel-people-raised-hands-with-bid-paddles-vector-concept-auction-business-bid-sale-trade-commercial-illustration_53562-6247.jpg?w=2000");
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 10%;
+}
+
+.leftImage,.rightImage{
+    width: 100px;
+    height: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 10%;
+    background-image: url("https://img.favpng.com/21/1/8/auction-bidding-clip-art-png-favpng-CY4CtfFpmJRw37c4mM1yXWdQn.jpg");
+    text-align: center;
+}
+
+.lastMessage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lastMessage p{
+    margin-top: 0;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+}

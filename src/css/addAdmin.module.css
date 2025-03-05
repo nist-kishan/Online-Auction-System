@@ -1,0 +1,66 @@
+.container{
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mainContainer{
+    border: 2px solid;
+    height: 300px;
+    width: 350px;
+    box-shadow: 10px 10px 10px ;
+}
+
+.mainContainer h1,.containerMainContainer h1{
+    background-color: rgb(73, 17, 28);
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+form{
+    padding: 10px;
+}
+
+form label{
+    padding: 10px;
+}
+
+.btnContainer{
+    padding: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btnContainer button{
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(73, 17, 28);
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.btnContainer button:active{
+    transition: ease-in-out 5s;
+}
+
+.description{
+    height: 100px;
+    width: 100%;
+    resize: none;
+    padding: 10px;
+}
+
+.containerMainContainer{
+    border: 2px solid;
+    height: 370px;
+    width: 350px;
+    box-shadow: 10px 10px 10px ;
+}
+
