@@ -13,7 +13,7 @@ export default function Header() {
     useEffect(() => {
         const fetchCategories = async () => {
             try {
-                const response = await axios.get("./data/Categories.json"); // Replace with backend API URL
+                const response = await axios.get("./data/Categories.json");
                 const data = response.data.categories;
                 setCategories(data);
             } catch (error) {
